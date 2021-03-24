@@ -1,0 +1,16 @@
+C:\Users\roger\Desktop\PROJECTS\MRV .NET\APP CRUD\app-crud\bin\Debug\net5.0\app-crud.exe
+C:\Users\roger\Desktop\PROJECTS\MRV .NET\APP CRUD\app-crud\bin\Debug\net5.0\app-crud.deps.json
+C:\Users\roger\Desktop\PROJECTS\MRV .NET\APP CRUD\app-crud\bin\Debug\net5.0\app-crud.runtimeconfig.json
+C:\Users\roger\Desktop\PROJECTS\MRV .NET\APP CRUD\app-crud\bin\Debug\net5.0\app-crud.runtimeconfig.dev.json
+C:\Users\roger\Desktop\PROJECTS\MRV .NET\APP CRUD\app-crud\bin\Debug\net5.0\app-crud.dll
+C:\Users\roger\Desktop\PROJECTS\MRV .NET\APP CRUD\app-crud\bin\Debug\net5.0\ref\app-crud.dll
+C:\Users\roger\Desktop\PROJECTS\MRV .NET\APP CRUD\app-crud\bin\Debug\net5.0\app-crud.pdb
+C:\Users\roger\Desktop\PROJECTS\MRV .NET\APP CRUD\app-crud\obj\Debug\net5.0\app-crud.csprojAssemblyReference.cache
+C:\Users\roger\Desktop\PROJECTS\MRV .NET\APP CRUD\app-crud\obj\Debug\net5.0\app-crud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\Desktop\PROJECTS\MRV .NET\APP CRUD\app-crud\obj\Debug\net5.0\app-crud.AssemblyInfoInputs.cache
+C:\Users\roger\Desktop\PROJECTS\MRV .NET\APP CRUD\app-crud\obj\Debug\net5.0\app-crud.AssemblyInfo.cs
+C:\Users\roger\Desktop\PROJECTS\MRV .NET\APP CRUD\app-crud\obj\Debug\net5.0\app-crud.csproj.CoreCompileInputs.cache
+C:\Users\roger\Desktop\PROJECTS\MRV .NET\APP CRUD\app-crud\obj\Debug\net5.0\app-crud.dll
+C:\Users\roger\Desktop\PROJECTS\MRV .NET\APP CRUD\app-crud\obj\Debug\net5.0\ref\app-crud.dll
+C:\Users\roger\Desktop\PROJECTS\MRV .NET\APP CRUD\app-crud\obj\Debug\net5.0\app-crud.pdb
+C:\Users\roger\Desktop\PROJECTS\MRV .NET\APP CRUD\app-crud\obj\Debug\net5.0\app-crud.genruntimeconfig.cache
